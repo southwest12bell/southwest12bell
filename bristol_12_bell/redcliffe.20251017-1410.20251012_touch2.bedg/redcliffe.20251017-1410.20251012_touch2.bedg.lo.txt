@@ -19,7 +19,7 @@
 #. GainParams: -fh:6000 -fl:200
 #. OnsetParams: -mb:80 -mf:10 -ng:0.3 -oo:0
 #. WriteParams: -hb:y
-#. AnalParams: -au:n -xp:n -sg:n -hsg:-1
+#. AnalParams: -au:y -xp:n -sg:n -hsg:-1
 #. ExpString: 
 #. Association: 
 #. Calling: 

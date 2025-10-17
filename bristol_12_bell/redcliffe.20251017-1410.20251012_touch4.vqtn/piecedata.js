@@ -1,7 +1,7 @@
 var sAnalparams = "-au:n -xp:n -sg:n -hsg:-1";
 var sAnalyser = "HawkEar Community Edition v2";
 var sAnalyserversion = "2.1.1.5";
-var sAnalysisdatetime = "20251017-1434";
+var sAnalysisdatetime = "20251017-1813";
 var sAssociation = "";
 var sAudioFile = "redcliffe.20251017-1410.20251012_touch4.vqtn.mp3";
 var sCalling = "Call,Row,Methodname(ifspliced)\n                         M,31\n                         B,33\n                         S,87\n                         S,105\n                         S,117\n                         B,159\n                         S,165\n                         B,177\n                         B,237\n                         B,243\n                         B,255\n                         B,261\n                         B,267\n                         B,273\n                         E,282";
@@ -14,7 +14,7 @@ var sFootnotes = "";
 var sGainparams = "-fh:6000 -fl:200";
 var sMetatype = "a";
 var sMethod = "Stedman Cinques";
-var sMsAddToAudioTimes = "0";
+var sMsAddToAudioTimes = "74680";
 var sNiceRingingdatetime = "Friday, 17th of October 2025 at 14:10";
 var sNumbellsringing = "12";
 var sOnsetparams = "-mb:80 -mf:10 -ng:0.3 -oo:0";
