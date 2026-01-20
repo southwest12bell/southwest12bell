@@ -1,7 +1,7 @@
 var sAnalparams = "-au:n -xp:n -sg:n -hsg:-1";
 var sAnalyser = "HawkEar Community Edition v2";
 var sAnalyserversion = "2.1.1.5";
-var sAnalysisdatetime = "20260120-1331";
+var sAnalysisdatetime = "20260120-1342";
 var sAssociation = "";
 var sAudioFile = "redcliffe.20260118-0854.20260118_touch1.bwcs.mp3";
 var sCalling = "Call,Row,Methodname(ifspliced)\n                         M,27\n                         B,29\n                         S,119\n                         B,137\n                         B,167\n                         B,185\n                         S,191\n                         S,209\n                         B,233\n                         B,239\n                         B,245\n                         B,251\n                         E,295";
