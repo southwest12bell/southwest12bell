@@ -1,0 +1,188 @@
+# Created by Octave 5.2.0, Tue Apr 14 16:10:17 2026 GMT <unknown@JulianLaptop2>
+# name: TouchDetails
+# type: scalar struct
+# ndims: 2
+ 1 1
+# length: 20
+# name: piSourcefilename
+# type: sq_string
+# elements: 1
+# length: 132
+C:\Program Files (x86)\Ringing Software\hawkear_files\touches\redcliffe_tewkesbury_shield\Tewkesbury_practice_2026-04-12_touch_1.wav
+
+
+# name: piRingingdatetime
+# type: sq_string
+# elements: 1
+# length: 13
+20260412-2208
+
+
+# name: piTower
+# type: sq_string
+# elements: 1
+# length: 36
+St Mary Redcliffe Front Ten, Bristol
+
+
+# name: piRingingname
+# type: sq_string
+# elements: 1
+# length: 42
+Tewkesbury practice 2026 - 04 - 12 touch 1
+
+
+# name: piStdev
+# type: scalar
+28.168533495767019
+
+
+# name: piStdevpercentStr
+# type: sq_string
+# elements: 1
+# length: 4
+12.5
+
+
+# name: piStdevPct
+# type: scalar
+12.497233376074506
+
+
+# name: piTouchlength
+# type: scalar
+365
+
+
+# name: piPiecelength
+# type: scalar
+396
+
+
+# name: piTouchDuration
+# type: sq_string
+# elements: 1
+# length: 15
+14 mins 18 secs
+
+
+# name: piPieceDuration
+# type: sq_string
+# elements: 1
+# length: 15
+15 mins 31 secs
+
+
+# name: piMethod
+# type: sq_string
+# elements: 1
+# length: 14
+Stedman Caters
+
+
+# name: piPealSpeed
+# type: scalar struct
+# ndims: 2
+ 1 1
+# length: 2
+# name: string
+# type: sq_string
+# elements: 1
+# length: 13
+3 hrs 17 mins
+
+
+# name: numeric
+# type: scalar
+11842094.285933428
+
+
+
+
+# name: piNBells
+# type: scalar
+10
+
+
+# name: piRowsBadInPiece
+# type: scalar
+6
+
+
+# name: piTouchFaults
+# type: scalar struct
+# ndims: 2
+ 1 1
+# length: 2
+# name: count
+# type: scalar struct
+# ndims: 2
+ 1 1
+# length: 3
+# name: hand
+# type: scalar
+101
+
+
+# name: back
+# type: scalar
+55
+
+
+# name: all
+# type: scalar
+156
+
+
+
+
+# name: mean
+# type: scalar struct
+# ndims: 2
+ 1 1
+# length: 3
+# name: hand
+# type: scalar
+23.810795470749454
+
+
+# name: back
+# type: scalar
+20.612542454248917
+
+
+# name: all
+# type: scalar
+22.206552019950614
+
+
+
+
+
+
+# name: piExpstring
+# type: sq_string
+# elements: 0
+
+
+# name: piRungon
+# type: string
+# elements: 0
+
+
+# name: piTenor
+# type: sq_string
+# elements: 1
+# length: 2
+10
+
+
+# name: piNumBellsRinging
+# type: sq_string
+# elements: 1
+# length: 2
+10
+
+
+
+
