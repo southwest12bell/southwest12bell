@@ -1,0 +1,188 @@
+# Created by Octave 5.2.0, Fri Apr 17 12:18:13 2026 GMT <unknown@JulianLaptop2>
+# name: TouchDetails
+# type: scalar struct
+# ndims: 2
+ 1 1
+# length: 20
+# name: piSourcefilename
+# type: sq_string
+# elements: 1
+# length: 124
+C:\Program Files (x86)\Ringing Software\hawkear_files\touches\redcliffe_tewkesbury_shield\Tewkesbury_practice_2026-04-16.wav
+
+
+# name: piRingingdatetime
+# type: sq_string
+# elements: 1
+# length: 13
+20260417-1214
+
+
+# name: piTower
+# type: sq_string
+# elements: 1
+# length: 36
+St Mary Redcliffe Front Ten, Bristol
+
+
+# name: piRingingname
+# type: sq_string
+# elements: 1
+# length: 34
+Tewkesbury practice 2026 - 04 - 16
+
+
+# name: piStdev
+# type: scalar
+26.214531219317045
+
+
+# name: piStdevpercentStr
+# type: sq_string
+# elements: 1
+# length: 4
+11.1
+
+
+# name: piStdevPct
+# type: scalar
+11.119511945967567
+
+
+# name: piTouchlength
+# type: scalar
+365
+
+
+# name: piPiecelength
+# type: scalar
+378
+
+
+# name: piTouchDuration
+# type: sq_string
+# elements: 1
+# length: 15
+14 mins 59 secs
+
+
+# name: piPieceDuration
+# type: sq_string
+# elements: 1
+# length: 15
+15 mins 31 secs
+
+
+# name: piMethod
+# type: sq_string
+# elements: 1
+# length: 14
+Stedman Caters
+
+
+# name: piPealSpeed
+# type: scalar struct
+# ndims: 2
+ 1 1
+# length: 2
+# name: string
+# type: sq_string
+# elements: 1
+# length: 13
+3 hrs 27 mins
+
+
+# name: numeric
+# type: scalar
+12417580.3833206
+
+
+
+
+# name: piNBells
+# type: scalar
+10
+
+
+# name: piRowsBadInPiece
+# type: scalar
+3
+
+
+# name: piTouchFaults
+# type: scalar struct
+# ndims: 2
+ 1 1
+# length: 2
+# name: count
+# type: scalar struct
+# ndims: 2
+ 1 1
+# length: 3
+# name: hand
+# type: scalar
+66
+
+
+# name: back
+# type: scalar
+44
+
+
+# name: all
+# type: scalar
+110
+
+
+
+
+# name: mean
+# type: scalar struct
+# ndims: 2
+ 1 1
+# length: 3
+# name: hand
+# type: scalar
+21.572201073756002
+
+
+# name: back
+# type: scalar
+19.637567384239702
+
+
+# name: all
+# type: scalar
+20.678870225938081
+
+
+
+
+
+
+# name: piExpstring
+# type: sq_string
+# elements: 0
+
+
+# name: piRungon
+# type: string
+# elements: 0
+
+
+# name: piTenor
+# type: sq_string
+# elements: 1
+# length: 2
+10
+
+
+# name: piNumBellsRinging
+# type: sq_string
+# elements: 1
+# length: 2
+10
+
+
+
+
