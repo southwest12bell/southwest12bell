@@ -1,4 +1,4 @@
-# Created by Octave 5.2.0, Sun Apr 19 17:12:12 2026 GMT <unknown@JulianLaptop2>
+# Created by Octave 5.2.0, Mon Apr 20 08:25:29 2026 GMT <unknown@JulianLaptop2>
 # name: TouchDetails
 # type: scalar struct
 # ndims: 2
@@ -34,19 +34,19 @@ York2
 
 # name: piStdev
 # type: scalar
-32.636350699615726
+32.396005443741089
 
 
 # name: piStdevpercentStr
 # type: sq_string
 # elements: 1
 # length: 4
-14.2
+14.1
 
 
 # name: piStdevPct
 # type: scalar
-14.203924925202966
+14.105302434382425
 
 
 # name: piTouchlength
@@ -94,7 +94,7 @@ Stedman Cinques
 
 # name: numeric
 # type: scalar
-14434013.923132678
+14434031.658804514
 
 
 
@@ -106,7 +106,7 @@ Stedman Cinques
 
 # name: piRowsBadInPiece
 # type: scalar
-2
+3
 
 
 # name: piTouchFaults
@@ -121,17 +121,17 @@ Stedman Cinques
 # length: 3
 # name: hand
 # type: scalar
-116
+113
 
 
 # name: back
 # type: scalar
-129
+113
 
 
 # name: all
 # type: scalar
-245
+226
 
 
 
@@ -143,17 +143,17 @@ Stedman Cinques
 # length: 3
 # name: hand
 # type: scalar
-25.446707366213303
+25.472252086816244
 
 
 # name: back
 # type: scalar
-26.064300368969409
+25.590513833851343
 
 
 # name: all
 # type: scalar
-25.567597987652917
+25.407321519769951
 
 
 
