@@ -1,0 +1,190 @@
+# Created by Octave 5.2.0, Fri Jun 26 11:21:19 2026 GMT <unknown@JulianLaptop2>
+# name: TouchDetails
+# type: scalar struct
+# ndims: 2
+ 1 1
+# length: 20
+# name: piSourcefilename
+# type: sq_string
+# elements: 1
+# length: 98
+C:\Program Files (x86)\Ringing Software\hawkear_files\touches\york\ym.20260625-1419.TeamI.sjqs.mp3
+
+
+# name: piRingingdatetime
+# type: sq_string
+# elements: 1
+# length: 13
+20260626-1117
+
+
+# name: piTower
+# type: sq_string
+# elements: 1
+# length: 12
+York Minster
+
+
+# name: piRingingname
+# type: sq_string
+# elements: 1
+# length: 29
+Ym.20260625 - 1419.TeamI.sjqs
+
+
+# name: piStdev
+# type: scalar
+27.864421175716462
+
+
+# name: piStdevpercentStr
+# type: sq_string
+# elements: 1
+# length: 4
+12.9
+
+
+# name: piStdevPct
+# type: scalar
+12.871049619629336
+
+
+# name: piTouchlength
+# type: scalar
+252
+
+
+# name: piPiecelength
+# type: scalar
+298
+
+
+# name: piTouchDuration
+# type: sq_string
+# elements: 1
+# length: 15
+11 mins 19 secs
+
+
+# name: piPieceDuration
+# type: sq_string
+# elements: 1
+# length: 15
+13 mins 24 secs
+
+
+# name: piMethod
+# type: sq_string
+# elements: 1
+# length: 15
+Stedman Cinques
+
+
+# name: piPealSpeed
+# type: scalar struct
+# ndims: 2
+ 1 1
+# length: 2
+# name: string
+# type: sq_string
+# elements: 1
+# length: 13
+3 hrs 46 mins
+
+
+# name: numeric
+# type: scalar
+13589703.054052766
+
+
+
+
+# name: piNBells
+# type: scalar
+12
+
+
+# name: piRowsBadInPiece
+# type: scalar
+3
+
+
+# name: piTouchFaults
+# type: scalar struct
+# ndims: 2
+ 1 1
+# length: 2
+# name: count
+# type: scalar struct
+# ndims: 2
+ 1 1
+# length: 3
+# name: hand
+# type: scalar
+74
+
+
+# name: back
+# type: scalar
+71
+
+
+# name: all
+# type: scalar
+145
+
+
+
+
+# name: mean
+# type: scalar struct
+# ndims: 2
+ 1 1
+# length: 3
+# name: hand
+# type: scalar
+21.152849838069844
+
+
+# name: back
+# type: scalar
+22.24190606869044
+
+
+# name: all
+# type: scalar
+22.082963511526643
+
+
+
+
+
+
+# name: piExpstring
+# type: sq_string
+# elements: 0
+
+
+# name: piRungon
+# type: sq_string
+# elements: 1
+# length: 6
+All 12
+
+
+# name: piTenor
+# type: sq_string
+# elements: 1
+# length: 2
+12
+
+
+# name: piNumBellsRinging
+# type: sq_string
+# elements: 1
+# length: 2
+12
+
+
+
+
